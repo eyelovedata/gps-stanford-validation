@@ -1,5 +1,5 @@
-# sanitized-gps-stanford-validation
-
+# gps-stanford-validation
+- this version is "sanitized" - corresponds to "sanitized-gps-stanford-validation" in the Stanford GitLab 
 
 
 ## Getting started
